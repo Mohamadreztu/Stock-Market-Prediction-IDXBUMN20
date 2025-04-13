@@ -5,3 +5,4 @@ joblib
 streamlit
 packaging
 markupsafe
+sklearn
